@@ -1,0 +1,1 @@
+一个Topic可以认为是一类消息，每个 topic 将被分成多个 partition (区), 每个 partition 在存储层面是 append log 文件
